@@ -1,10 +1,7 @@
 # NorthwindBackend
 
 
-- It is a project I made with the .NET Backend course.
-
- [x] .NET Core Backend-1 Engin Demiroğ
- [x] .NET Core Backend-2 Engin Demiroğ
+:computer: .Net backend kursu ile yaptığım bir proje.
 
 Proje kod içeriği; 
 
