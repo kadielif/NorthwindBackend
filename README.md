@@ -12,7 +12,6 @@ Proje kod içeriği;
  - Error & Success Result Yönetimi
  - Repository Pattern İmplementasyonları
  - Fluent Validation İmplementasyonu
- - Dynamic Proxy İle Çalışmak
  - Interceptor İmplementasyonu
  - AOP - Validation - Transaction - Caching
  - Token oluşturma
