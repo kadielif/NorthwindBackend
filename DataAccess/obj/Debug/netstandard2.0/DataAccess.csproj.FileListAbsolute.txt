@@ -1,0 +1,14 @@
+C:\Users\elif_\Desktop\project\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\elif_\Desktop\project\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\elif_\Desktop\project\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\elif_\Desktop\project\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\elif_\Desktop\project\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\elif_\Desktop\project\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\elif_\Desktop\project\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\elif_\Desktop\project\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\elif_\Desktop\project\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\elif_\Desktop\project\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\elif_\Desktop\project\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\elif_\Desktop\project\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\elif_\Desktop\project\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\elif_\Desktop\project\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
