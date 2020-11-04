@@ -1,7 +1,7 @@
 # NorthwindBackend
 
 
-:computer: .Net backend kursu ile yaptığım bir proje.
+:computer: .Net backend kursu yardımlarıyla yapılmıştır.
 
 Proje kod içeriği; 
 
